@@ -1,0 +1,14 @@
+{
+    "你好": {
+        "en": "hello",
+        "$files": [
+            "pages\\index\\index.vue"
+        ]
+    },
+    "切换成功": {
+        "en": "success",
+        "$files": [
+            "pages\\index\\index.vue"
+        ]
+    }
+}
